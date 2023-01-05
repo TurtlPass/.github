@@ -5,6 +5,7 @@
 <a href="https://github.com/TurtlPass/turtlpass-firmware-arduino"><img src="https://img.shields.io/badge/Arduino%20Firmware-v1.0.0-blue?logo=arduino" alt="Firmware Repo"/></a>
 <a href="https://github.com/TurtlPass/turtlpass-android"><img src="https://img.shields.io/badge/Android%20App-v1.0.0-blue?logo=android" alt="Android Repo"/></a>
 <a href="https://github.com/TurtlPass/turtlpass-chrome-extension"><img src="https://img.shields.io/badge/Chrome%20Extension-v1.0.0-blue?logo=googlechrome" alt="Chrome Extension Repo"/></a>
+<a href="https://www.patreon.com/turtlpass"><img src="https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white" alt="Patreon"/></a>
 </p>
 <br/>
 <p align="center">
@@ -29,3 +30,12 @@ Ultimately, my motivation for creating TurtlPass was to help protect individuals
 I was inspired by the turtle when creating TurtlPass - these wise, resilient creatures have been around for centuries, enduring through all types of challenges and obstacles. That's exactly why I chose the turtle as the inspiration for our powerful password generator.
 
 With TurtlPass, you'll get the strongest and most secure passwords possible, just like the turtle's enduring strength and wisdom. Our tool is designed to withstand even the most determined attacks, giving you the peace of mind you deserve. So don't just settle for any old password - choose TurtlPass and let the might of the turtle protect your accounts.
+
+
+## 💚 Supporting Turtle Conservation and Software Development
+
+As the creator of TurtlPass, I am dedicated to making a positive impact on both the digital and physical world. That's why I have decided to use 50% of the donations received via Patreon to adopt turtles in nature reserves across the world, starting with a specific one in Mauritius that I have personally visited. I believe that it is important to give back to the natural world and support the conservation efforts of these amazing animals.
+
+The other 50% of donations will go towards the development and improvement of TurtlPass. Your support enables me to dedicate resources towards the creation of new features and the testing of new hardware devices.
+
+Thank you for considering a donation to TurtlPass. Your support means the world to me, and I am grateful for the opportunity to make a difference for both the digital and physical world with your help.
