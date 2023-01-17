@@ -2,9 +2,9 @@
 <img src="https://raw.githubusercontent.com/TurtlPass/turtlpass-firmware-arduino/main/assets/icon.png" alt="logo" width=128>
 <h1 align="center">TurtlPass</h1>
 <p align="center">
-<a href="https://github.com/TurtlPass/turtlpass-firmware-arduino"><img src="https://img.shields.io/badge/Arduino%20Firmware-v1.0.0-blue?logo=arduino" alt="Firmware Repo"/></a>
-<a href="https://github.com/TurtlPass/turtlpass-android"><img src="https://img.shields.io/badge/Android%20App-v1.0.0-blue?logo=android" alt="Android Repo"/></a>
-<a href="https://github.com/TurtlPass/turtlpass-chrome-extension"><img src="https://img.shields.io/badge/Chrome%20Extension-v1.0.0-blue?logo=googlechrome" alt="Chrome Extension Repo"/></a>
+<a href="https://github.com/TurtlPass/turtlpass-firmware-arduino"><img src="https://img.shields.io/github/v/release/TurtlPass/turtlpass-firmware-arduino?color=blue&label=Arduino%20Firmware&logo=arduino" alt="Firmware Repo"/></a>
+<a href="https://github.com/TurtlPass/turtlpass-android"><img src="https://img.shields.io/github/v/release/TurtlPass/turtlpass-android?color=blue&label=Android%20App&logo=android" alt="Android Repo"/></a>
+<a href="https://github.com/TurtlPass/turtlpass-chrome-extension"><img src="https://img.shields.io/github/v/release/TurtlPass/turtlpass-chrome-extension?color=blue&label=Chrome%20Extension&logo=googlechrome" alt="Chrome Extension Repo"/></a>
 <a href="https://www.patreon.com/turtlpass"><img src="https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white" alt="Patreon"/></a>
 </p>
 <br/>
