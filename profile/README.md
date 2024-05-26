@@ -1,6 +1,6 @@
 <a href="https://docs.turtlpass.com"><img src="https://github.com/TurtlPass/turtlpass-documentation/blob/master/.gitbook/assets/turtlpass-header.jpg"></a>
 
-🐢 [TurtlPass](https://docs.turtlpass.com)  
+🐢 [TurtlPass: Where Passwords Swim Securely!](https://docs.turtlpass.com)  
 
 📟 [Firmware Documentation](https://docs.turtlpass.com/firmware-documentation)
 *  [![Firmware Repo](https://img.shields.io/github/v/release/TurtlPass/turtlpass-firmware-arduino?color=blue\&label=Arduino%20Firmware\&logo=arduino)](https://github.com/TurtlPass/turtlpass-firmware-arduino)  
