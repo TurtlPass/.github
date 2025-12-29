@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/TurtlPass/turtlpass-firmware-arduino/master/assets/icon.png" alt="TurtlPass Logo" width="200" />
 </p>
 
-<h1 align="center">🐢 <a href="https://ryanamaral.gitbook.io/turtlpass">TurtlPass</a>: Where Passwords Swim Securely!</h1>
+<h1 align="center">TurtlPass — Your Passwords, Physically Secured.</h1>
 
 <p align="center">
   <sub>Secure, open-source password management built on reproducible hardware and cross-platform clients.</sub>
