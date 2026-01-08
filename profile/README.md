@@ -5,7 +5,7 @@
 <h1 align="center">TurtlPass — Your Passwords, Physically Secured.</h1>
 
 <p align="center">
-  <sub>Secure, open-source password management built on reproducible hardware and cross-platform clients.</sub>
+  <sub>An open-source, offline-first hardware password management ecosystem. No cloud, no subscriptions — just reproducible hardware and cryptographic ownership.</sub>
 </p>
 
 ---
